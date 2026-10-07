@@ -165,7 +165,7 @@ AVERAGE(Loan_Credit_Risk_Cleaned[InterestRate]) / 100
 SairamNallapati_Loan_Credit_Risk_Analysis
 │
 ├── Dataset
-│   └── Loan_Credit_Risk_Cleaned.csv
+│   └── Loan_default.csv
 │
 ├── Python
 │   └── Loan_Credit_Risk_Analysis.ipynb
